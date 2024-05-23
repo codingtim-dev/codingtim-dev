@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hallo! Ich bin ein leidenschaftlicher Software Engineer mit umfassender Erfahrung in der Entwicklung robuster Anwendungen und Websites. Meine Kernkompetenzen umfassen:
 
-<!--
-**codingtim-dev/codingtim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programmiersprachen:**
+- **C#**: Spezialisierung auf ASP.NET für die Entwicklung von leistungsstarken Webanwendungen.
+- **Java**: Einsatz von Spring Boot für die Erstellung skalierbarer und wartbarer Backend-Lösungen.
+- **Python**: Vielseitige Nutzung für verschiedene Projekte, von Automatisierung bis zu Datenanalyse.
 
-Here are some ideas to get you started:
+🌐 **Webentwicklung:**
+- **Angular & TypeScript**: Entwicklung moderner und dynamischer Webanwendungen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Werkzeuge & Technologien:**
+- **ASP.NET**: Erstellung und Verwaltung von Web-APIs und MVC-Anwendungen.
+- **Spring Boot**: Konfiguration und Deployment von Microservices.
+- **Angular**: Entwicklung reaktiver Benutzeroberflächen.
+- **TypeScript**: Typensichere Programmierung für größere JavaScript-Projekte.
+
+Ich bin stets bestrebt, mein Wissen zu erweitern und neue Technologien zu erlernen. Schauen Sie sich meine Projekte an und lassen Sie uns gemeinsam an spannenden Herausforderungen arbeiten!
